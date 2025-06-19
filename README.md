@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pablosancval
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in coding and SAP security
+- 🌱 I just recently finished my Software engineering degree and have been working on SAP security for the past near 2 years
 - 💞️ I’m looking to collaborate on different projects to expand my knowledge
-- 📫 How to reach me ...
+- 📫 How to reach me? linkedin https://www.linkedin.com/in/pablo-sánchez-valenzuela-2b9245251/
 
 <!---
 Pablosancval/Pablosancval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
